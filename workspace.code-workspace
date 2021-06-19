@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.languageServer": "None",
+		"python.linting.pylintUseMinimalCheckers": false,
+		"python.linting.pylintArgs": ["--enable=F,E,W"]
+	}
+}
